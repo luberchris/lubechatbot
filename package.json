@@ -9,7 +9,7 @@
     "concurrently": "^4.1.0",
     "dotenv": "^8.0.0",
     "mongoose": "^5.6.4",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "pug": "^2.0.4",
     "pug-as-jsx-loader": "^1.0.71"
   },
